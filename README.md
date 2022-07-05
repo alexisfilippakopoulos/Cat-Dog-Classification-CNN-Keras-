@@ -3,6 +3,7 @@
 The implementation of a Sequential model with keras which uses softmax and a sparse categorical crossentropy as a loss function.
 The dataset used is: https://www.kaggle.com/datasets/arpitjain007/dog-vs-cat-fastai
 
+
 To run simply :
 
 
